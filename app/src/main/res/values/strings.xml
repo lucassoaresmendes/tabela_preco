@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TabelaPrecos</string>
+    <string name="banner_desc">Descrição do Banner</string>
+    <string name="btn_contador">Contador de Senha</string>
+    <string name="btn_promocoes">Promoções do Dia</string>
+    <string name="btn_tabela_preco">Tabela de Preços</string>
+    <string name="descricao">Descrição</string>
+    <string name="produto">Produto</string>
+    <string name="preco">R$</string>
+</resources>
